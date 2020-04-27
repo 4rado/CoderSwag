@@ -29,6 +29,6 @@ object DataService {
         Product("Devslopes Badge Light Gray", "$29", "shirt02"),
         Product("Devslopes Logo Shirt Red", "$22", "shirt03"),
         Product("Devslopes Hustle", "$32", "shirt04"),
-        Product("Devslopes Studios", "$32", "shirt05")  
+        Product("Devslopes Studios", "$32", "shirt05")
     )
 }
